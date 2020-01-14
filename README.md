@@ -1,5 +1,3 @@
-# Miguel Lopes
-
 Challenge questions can be found in Exercise.md
 
 Java program compatible with any version >=5. No external libraries are required.
